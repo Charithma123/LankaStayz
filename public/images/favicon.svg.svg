@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36">
+  <!-- Teal Circle background -->
+  <circle cx="18" cy="18" r="18" fill="#0f766e" />
+  
+  <!-- Amber Sun Icon -->
+  <g transform="translate(8, 8)" fill="none" stroke="#fbbf24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="10" cy="10" r="4" />
+    <path d="M10 2v2M10 16v2M2 10h2M16 10h2M4.93 4.93l1.41 1.41M13.66 13.66l1.41 1.41M4.93 15.07l1.41-1.41M13.66 6.34l1.41-1.41" />
+  </g>
+</svg>
