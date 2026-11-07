@@ -2,7 +2,7 @@
 
 A responsive accommodation booking website prototype for **Lanka Stayz**, built as a practical technical assessment for the Full-Stack Web Developer position at Xero Lanka. Visitors can explore holiday stays across Sri Lanka, filter them by destination, view property details and send a booking request.
 
- **Live Demo:** https://YOUR-PROJECT.vercel.app
+ **Live Demo:** https://lanka-stayz-nine.vercel.app
  **Source Code:** https://github.com/Charithma123/LankaStayz.git
 
 > No login is required to use the site.
