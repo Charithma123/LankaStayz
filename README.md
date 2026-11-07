@@ -140,8 +140,7 @@ This is a prototype, so the following are intentionally not implemented:
 
 ## AI-Assisted Development Disclosure
 
-<!-- EDIT THIS SECTION so it is accurate. The assessment requires disclosure. -->
-AI-assisted tools (Claude by Anthropic) were used during this project for [describe how, e.g. help with planning, debugging, and writing this README]. I have reviewed the code and can explain and modify it during the technical interview.
+AI-assisted tools (Claude by Anthropic) were used during this project for deployment guidance, writing this README and the development summary, and preparing the sample data in `src/data/properties.js` (new properties and images). I have reviewed the code and can explain and modify it during the technical interview.
 
 ---
 
